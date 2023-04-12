@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Igor!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+JavaScript+Developer)(https://git.io/typing-svg)
+<p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+JavaScript+Developer)(https://git.io/typing-svg)</div>
 
 <h4 align="left">My current stack:</h4>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
