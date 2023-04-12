@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm Igor!</h1>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+Javascript+Developer)](https://git.io/typing-svg)
+
+<h4 align="left">I'm from Russia and currently looking for a job with fullstack/frontend position.</h4>
 
 <h4 align="left">My current stack:</h4>
 
